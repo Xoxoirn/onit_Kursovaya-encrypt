@@ -1,0 +1,32 @@
+C:\Users\fedot\Downloads\onit_Kursovaya-main\onit_Kursovaya-main\bin\Debug\ONIT_Kursov.exe.config
+C:\Users\fedot\Downloads\onit_Kursovaya-main\onit_Kursovaya-main\bin\Debug\ONIT_Kursov.exe
+C:\Users\fedot\Downloads\onit_Kursovaya-main\onit_Kursovaya-main\bin\Debug\ONIT_Kursov.pdb
+C:\Users\fedot\Downloads\onit_Kursovaya-main\onit_Kursovaya-main\obj\Debug\ONIT_Kursov.csproj.AssemblyReference.cache
+C:\Users\fedot\Downloads\onit_Kursovaya-main\onit_Kursovaya-main\obj\Debug\ONIT_Kursov.csproj.SuggestedBindingRedirects.cache
+C:\Users\fedot\Downloads\onit_Kursovaya-main\onit_Kursovaya-main\obj\Debug\MainWindow.g.cs
+C:\Users\fedot\Downloads\onit_Kursovaya-main\onit_Kursovaya-main\obj\Debug\App.g.cs
+C:\Users\fedot\Downloads\onit_Kursovaya-main\onit_Kursovaya-main\obj\Debug\ONIT_Kursov_MarkupCompile.cache
+C:\Users\fedot\Downloads\onit_Kursovaya-main\onit_Kursovaya-main\obj\Debug\ONIT_Kursov_MarkupCompile.lref
+C:\Users\fedot\Downloads\onit_Kursovaya-main\onit_Kursovaya-main\obj\Debug\MainWindow.baml
+C:\Users\fedot\Downloads\onit_Kursovaya-main\onit_Kursovaya-main\obj\Debug\ONIT_Kursov.g.resources
+C:\Users\fedot\Downloads\onit_Kursovaya-main\onit_Kursovaya-main\obj\Debug\ONIT_Kursov.Properties.Resources.resources
+C:\Users\fedot\Downloads\onit_Kursovaya-main\onit_Kursovaya-main\obj\Debug\ONIT_Kursov.csproj.GenerateResource.cache
+C:\Users\fedot\Downloads\onit_Kursovaya-main\onit_Kursovaya-main\obj\Debug\ONIT_Kursov.csproj.CoreCompileInputs.cache
+C:\Users\fedot\Downloads\onit_Kursovaya-main\onit_Kursovaya-main\obj\Debug\ONIT_Kursov.exe
+C:\Users\fedot\Downloads\onit_Kursovaya-main\onit_Kursovaya-main\obj\Debug\ONIT_Kursov.pdb
+C:\Users\fedot\Desktop\Курсовая ОНИТ\onit_Kursovaya-encr\bin\Debug\ONIT_Kursov.exe.config
+C:\Users\fedot\Desktop\Курсовая ОНИТ\onit_Kursovaya-encr\bin\Debug\ONIT_Kursov.exe
+C:\Users\fedot\Desktop\Курсовая ОНИТ\onit_Kursovaya-encr\bin\Debug\ONIT_Kursov.pdb
+C:\Users\fedot\Desktop\Курсовая ОНИТ\onit_Kursovaya-encr\obj\Debug\ONIT_Kursov.csproj.AssemblyReference.cache
+C:\Users\fedot\Desktop\Курсовая ОНИТ\onit_Kursovaya-encr\obj\Debug\ONIT_Kursov.csproj.SuggestedBindingRedirects.cache
+C:\Users\fedot\Desktop\Курсовая ОНИТ\onit_Kursovaya-encr\obj\Debug\MainWindow.g.cs
+C:\Users\fedot\Desktop\Курсовая ОНИТ\onit_Kursovaya-encr\obj\Debug\App.g.cs
+C:\Users\fedot\Desktop\Курсовая ОНИТ\onit_Kursovaya-encr\obj\Debug\ONIT_Kursov_MarkupCompile.cache
+C:\Users\fedot\Desktop\Курсовая ОНИТ\onit_Kursovaya-encr\obj\Debug\ONIT_Kursov_MarkupCompile.lref
+C:\Users\fedot\Desktop\Курсовая ОНИТ\onit_Kursovaya-encr\obj\Debug\MainWindow.baml
+C:\Users\fedot\Desktop\Курсовая ОНИТ\onit_Kursovaya-encr\obj\Debug\ONIT_Kursov.g.resources
+C:\Users\fedot\Desktop\Курсовая ОНИТ\onit_Kursovaya-encr\obj\Debug\ONIT_Kursov.Properties.Resources.resources
+C:\Users\fedot\Desktop\Курсовая ОНИТ\onit_Kursovaya-encr\obj\Debug\ONIT_Kursov.csproj.GenerateResource.cache
+C:\Users\fedot\Desktop\Курсовая ОНИТ\onit_Kursovaya-encr\obj\Debug\ONIT_Kursov.csproj.CoreCompileInputs.cache
+C:\Users\fedot\Desktop\Курсовая ОНИТ\onit_Kursovaya-encr\obj\Debug\ONIT_Kursov.exe
+C:\Users\fedot\Desktop\Курсовая ОНИТ\onit_Kursovaya-encr\obj\Debug\ONIT_Kursov.pdb
